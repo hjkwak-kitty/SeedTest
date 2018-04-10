@@ -1,4 +1,4 @@
-package com.example.hjkwak.seedtest_new;
+package com.example.hjkwak.seedtestNew;
 
 import org.junit.Test;
 
